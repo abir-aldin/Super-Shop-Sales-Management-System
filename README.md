@@ -30,9 +30,9 @@ This project demonstrates Object-Oriented Programming (OOP) concepts through a g
 
 - Java
 - Java Swing
-- Java AWT
 - Object-Oriented Programming (OOP)
 - File Handling
+- GUI Development
 
 ## OOP Concepts Applied
 
